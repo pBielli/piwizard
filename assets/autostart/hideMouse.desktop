@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Unclutter
+Comment=Hide the mouse cursor after inactivity
+Exec=unclutter -idle 5 -root
+Icon=system-software-update
+Terminal=false
+Categories=System;

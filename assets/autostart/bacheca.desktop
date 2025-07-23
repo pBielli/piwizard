@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Name=BACHECA CEM
+Exec=chromium-browser --start-fullscreen --app=https://bacheca.cemambiente.it/viewer --autoplay-policy=no-user-gesture-required

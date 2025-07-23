@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Aggiornamento Raspberry
+Exec=sudo apt update && sudo apt full-upgrade -y && sudo apt autoremove -y
+Icon=system-software-update
+Comment=Aggiorna il sistema Raspberry Pi
+Terminal=false
+Categories=System;

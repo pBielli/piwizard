@@ -1,0 +1,16 @@
+# Ignora cartella logs
+logs/
+
+# File di log generici
+*.log
+
+# File temporanei di sistema
+*.tmp
+*.temp
+
+# Backup
+*~
+
+# Editor e OS vari
+.DS_Store
+Thumbs.db
